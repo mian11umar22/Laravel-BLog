@@ -64,3 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## 🔗 Local Project URL
+
+> You can view the Laravel application locally at:  
+> 👉 [http://127.0.0.1:8000](http://127.0.0.1:8000)
